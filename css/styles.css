@@ -30,7 +30,7 @@ hr{
   border-top-style:  dotted;
   width: 5rem;
   border-width: .4rem;
-  color: #EAF6F6;
+  color: rgb(177, 185, 185);
 }
 .caption{
   font-weight: normal;
