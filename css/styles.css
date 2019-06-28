@@ -51,10 +51,10 @@ hr{
   border-radius: 100%;
   width:9rem;
   float: left;
-  margin-right: 2rem;
+  margin: 0 2rem 1rem;
 }
 .chilli_img{
-  margin-left: 2rem;
+  margin: 0 2rem 1rem;
   width: 9rem;
   float: right;
 }
